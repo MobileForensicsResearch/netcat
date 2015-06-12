@@ -1,0 +1,3 @@
+old_nc is the version of netcat tested and shown in the book Learning Android Forensics by Donnie Tindall and Rohit Tamma. This version was tested on an HTC Droid DNA, and may not work with new devices.
+
+new_nc is a newer version of netcat, and is compiled for newer versions of ARM. It should work on newer devices, but has not been tested by the authors. new_nc is the same file found in arm:netcat-1.10nb3.tgz at ftp.netbsd.org/pub/pkgsrc/current/pkgsrc/net/netcat/README.html
